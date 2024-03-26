@@ -2,7 +2,7 @@
 This repository contains code for image classification of dogs and cats using convolutional neural networks (CNNs).
 The images are imported directly from the web for both training and testing purposes.
 The model is trained using the Rectified Linear Unit (ReLU) activation function for training and validation, while the Sigmoid activation function is utilized for testing.
-Clone the repository to your local machine:  git clone https://github.com/SSid-2314/dogs-cats-image-classification.git
+Clone the repository to your local machine:  git clone https://github.com/SSid-2314?tab=repositories)/dogs-cats-image-classification.git
 Install the required dependencies:  pip install -r requirements.txt
 Run the main script to train and test the model:   python main.py
 
